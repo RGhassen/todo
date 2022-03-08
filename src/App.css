@@ -1,0 +1,16 @@
+.Done {
+    text-decoration: line-through 3px red;
+}
+h1{
+    font-size: 15px;
+    font-family: cursive;
+    color: #1976d2;
+    margin-top: 10px;
+}
+#Add-main{
+    margin-left: -103px;
+    margin-bottom: 30px;
+}
+#List-main{
+    text-align: center;
+}
